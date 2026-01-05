@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👨‍💻 ALIOS | Benjamin Techer
 
-<!--
-**aliosl/Aliosl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-CS_Student_@_Univ_Reunion-2e5bff?style=for-the-badge&logo=googlescholar" />
+  <img src="https://img.shields.io/badge/Focus-AI_And_Cybersecurity-ff4b1f?style=for-the-badge&logo=target" />
+</p>
 
-Here are some ideas to get you started:
+### 🛡️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m a **Computer Science student** at the **University of Réunion**, deeply passionate about the intersection of **Artificial Intelligence** and **Cybersecurity**.
+- 🛡️ My main focus is using **AI to enhance threat detection**, predictive analysis, and automated defense mechanisms.
+- 🤖 I specialize in building models to detect complex attack patterns and anomalies in real-time.
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: **Anime fan here ✋** — currently "debugging" my Japanese language skills so I can watch without subs!
+
+---
+
+### 🚀 Technical Focus
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI & Machine Learning** | **PyTorch**, TensorFlow, Scikit-learn, OpenAI API, LangChain |
+| **Offensive Cyber** | Metasploit, Nmap, Burp Suite, Wireshark, AI-driven Fuzzing |
+| **Web Development** | **HTML5, CSS3, JavaScript (ES6+), PHP** (Laravel), Tailwind CSS |
+| **Infrastructure** | Linux (Kali/Arch), Docker, Git, Python (Automation APIs), AWS |
+
+---
+
+### 🔍 Current Research & Projects
+
+- **AI-Enhanced Detection**: Developing my AI Assitant for automatisation 
+- **Cybersecurity** :An Zero Trust environnement 
+
+---
+
+### 💻 My Coding Mantra
+```javascript
+do {
+  beBetterEveryDAY();
+} while (true);
