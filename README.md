@@ -11,7 +11,7 @@
 - 🛡️ My main focus is using **AI to enhance threat detection**, predictive analysis, and automated defense mechanisms.
 - 🤖 I specialize in building models to detect complex attack patterns and anomalies in real-time.
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **Anime fan here ✋** — currently "debugging" my Japanese language skills so I can watch without subs!
+- ⚡ Fun fact: **Anime fan I need Eighty Six Season2** 
 
 ---
 
