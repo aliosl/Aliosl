@@ -19,21 +19,14 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **AI & Machine Learning** | **PyTorch**, TensorFlow, Scikit-learn, OpenAI API, LangChain |
-| **Offensive Cyber** | Metasploit, Nmap, Burp Suite, Wireshark, AI-driven Fuzzing |
-| **Web Development** | **HTML5, CSS3, JavaScript (ES6+), PHP** (Laravel), Tailwind CSS |
+| **AI & Machine Learning** | PyTorch, TensorFlow, Scikit-learn, OpenAI API, LangChain |
+| **Offensive Cyber** | Metasploit, Nmap, Burp Suite, Wireshark |
+| **Web Development** | HTML5, CSS3, JavaScript , PHP(Laravel), Tailwind CSS |
 | **Infrastructure** | Linux (Kali/Arch), Docker, Git, Python (Automation APIs), AWS |
 
 ---
 
-### 🔍 Current Research & Projects
-
-- **AI-Enhanced Detection**: Developing my AI Assitant for automatisation 
-- **Cybersecurity** :An Zero Trust environnement 
-
----
-
-### 💻 My Coding Mantra
+### 💻 My Philosophy
 ```javascript
 do {
   beBetterEveryDAY();
