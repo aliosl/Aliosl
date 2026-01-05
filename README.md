@@ -1,4 +1,4 @@
-# 👨‍💻 ALIOS | Benjamin Techer
+# 👨‍💻 ALIOS | About Me
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-CS_Student_@_Univ_Reunion-2e5bff?style=for-the-badge&logo=googlescholar" />
