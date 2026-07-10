@@ -1,7 +1,7 @@
 # 👨‍💻 ALIOS | About Me
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-CS_Student_@_Univ_Reunion-2e5bff?style=for-the-badge&logo=googlescholar" />
+  <img src="https://img.shields.io/badge/Status-CS_Student_@_Epitech_Reunion-2e5bff?style=for-the-badge&logo=googlescholar" />
   <img src="https://img.shields.io/badge/Focus-AI_And_Cybersecurity-ff4b1f?style=for-the-badge&logo=target" />
 </p>
 
